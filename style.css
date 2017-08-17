@@ -1,0 +1,33 @@
+h2{ 
+    color: #444;
+    font-weight: lighter;
+    font-family: 'Lucida Sans';
+    padding-left: 30%;
+}
+
+body {
+    margin: 2em;
+    font-family: 'Lucida Sans';
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.abstract_table {
+    width: 350px;
+    float: left;
+    padding-left: 10%;
+}
+
+button {
+    border-radius: 4px;
+    border: 1px solid grey;
+    margin: 5px 3px;
+}
